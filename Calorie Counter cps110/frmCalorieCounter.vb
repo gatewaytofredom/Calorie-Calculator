@@ -10,8 +10,8 @@ Public Class frmCalorieCounter
     ' If the entered text contains a non numeric character or misplaced decimal points, it is replaced with an empty string.
 
     Private Sub TextBox_Data_Validation(ByVal sender As Object, ByVal e As System.EventArgs) Handles txtCarbohydrates.TextChanged,
-                                                                                                 txtFat.TextChanged,
-                                                                                                 txtProtein.TextChanged
+                                                                                                        txtFat.TextChanged,
+                                                                                                        txtProtein.TextChanged
 
         Dim digitsOnly As Regex = New Regex("^[+|-]?[0-9]*\.?[0-9]*$")     ' Regex matches any valid whole number or decimal.
 
@@ -23,6 +23,15 @@ Public Class frmCalorieCounter
             sender.Text = sender.Text.SubString(0, sender.Text.Length - 1)
 
         End If
+
+        ' If there is a single character in the textbox and its a decimal point, it is removed.
+
+        If sender.Text.Length = 1 And sender.Text = "." Then
+
+            sender.Text = sender.Text.SubString(0, sender.Text.Length - 1)
+
+        End If
+
 
         sender.SelectionStart = sender.Text.Length + 1      ' Set curser position to far right of textbox for ease of typing.
 
