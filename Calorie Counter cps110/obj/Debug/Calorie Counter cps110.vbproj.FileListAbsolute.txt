@@ -1,0 +1,12 @@
+C:\Users\BigBoi\source\repos\Calorie Counter cps110\Calorie Counter cps110\bin\Debug\Calorie Counter cps110.exe.config
+C:\Users\BigBoi\source\repos\Calorie Counter cps110\Calorie Counter cps110\bin\Debug\Calorie Counter cps110.exe
+C:\Users\BigBoi\source\repos\Calorie Counter cps110\Calorie Counter cps110\bin\Debug\Calorie Counter cps110.pdb
+C:\Users\BigBoi\source\repos\Calorie Counter cps110\Calorie Counter cps110\bin\Debug\Calorie Counter cps110.xml
+C:\Users\BigBoi\source\repos\Calorie Counter cps110\Calorie Counter cps110\obj\Debug\Calorie Counter cps110.vbprojAssemblyReference.cache
+C:\Users\BigBoi\source\repos\Calorie Counter cps110\Calorie Counter cps110\obj\Debug\Calorie_Counter.frmCalorieCounter.resources
+C:\Users\BigBoi\source\repos\Calorie Counter cps110\Calorie Counter cps110\obj\Debug\Calorie_Counter.Resources.resources
+C:\Users\BigBoi\source\repos\Calorie Counter cps110\Calorie Counter cps110\obj\Debug\Calorie Counter cps110.vbproj.GenerateResource.cache
+C:\Users\BigBoi\source\repos\Calorie Counter cps110\Calorie Counter cps110\obj\Debug\Calorie Counter cps110.vbproj.CoreCompileInputs.cache
+C:\Users\BigBoi\source\repos\Calorie Counter cps110\Calorie Counter cps110\obj\Debug\Calorie Counter cps110.exe
+C:\Users\BigBoi\source\repos\Calorie Counter cps110\Calorie Counter cps110\obj\Debug\Calorie Counter cps110.xml
+C:\Users\BigBoi\source\repos\Calorie Counter cps110\Calorie Counter cps110\obj\Debug\Calorie Counter cps110.pdb
