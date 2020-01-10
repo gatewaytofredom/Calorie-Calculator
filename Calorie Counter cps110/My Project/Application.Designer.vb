@@ -30,6 +30,7 @@ Namespace My
             Me.ShutDownStyle = Global.Microsoft.VisualBasic.ApplicationServices.ShutdownMode.AfterMainFormCloses
         End Sub
 
+        ' This is a comment I'm writing
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()> _
         Protected Overrides Sub OnCreateMainForm()
             Me.MainForm = Global.Calorie_Counter.frmCalorieCounter
